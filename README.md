@@ -25,3 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=Microsoft-SQL-Server)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)   
+
+<h3> Connect with me at ...</h3>
+
+<p align="center"><a href="https://www.linkedin.com/in/aman-singh-bhogal-002914195/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="https://www.instagram.com/asb_0002/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="socials"/></a> <a href=" https://discord.com/users/Aman Singh Bhogal#2810" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="socials"/></a> </p>

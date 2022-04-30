@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+# Hi there 👋
 
 - 🔭 I’m currently learning about Google Cloud Platform. 
 - 👯 I’m looking to collaborate on making Web Applications.

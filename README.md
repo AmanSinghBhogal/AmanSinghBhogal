@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb)

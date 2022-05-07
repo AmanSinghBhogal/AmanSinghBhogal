@@ -1,7 +1,9 @@
-# Hi there 👋
+# Hello 👋
 
+- 👨‍💻 I'm a Full Stack Developer.
 - 🔭 I’m currently learning about Google Cloud Platform. 
-- 👯 I’m looking to collaborate on making Web Applications.
+- 👯 I’m looking to collaborate on making Web Applications in MERN stack.
+- :man_student: I'am currently in my 3rd year of College.
 - 💬 Ask me about books, best resources for learning Computer Science and doing research .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-singh-bhogal-002914195/).
 - 😄 Pronouns: He/Him
@@ -23,6 +25,11 @@
 ![MySQL](https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=Microsoft-SQL-Server)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)   
+
+# My GitHub Stats:
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=AmanSinghBhogal&theme=react-dark" alt="Activity Graph"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmanSinghBhogal&show_icons=true&theme=radical" alt="Github readme stats" width="55%"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AmanSinghBhogal&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p>
 
 <h3> Connect with me at ...</h3>
 

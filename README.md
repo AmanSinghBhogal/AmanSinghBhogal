@@ -7,7 +7,7 @@
 - 💬 Ask me about books, best resources for learning Computer Science and doing research .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-singh-bhogal-002914195/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Binge Racers!
+- ⚡ Fun fact: I am a Binge Racer!
 
 
 

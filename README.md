@@ -27,9 +27,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)   
 
 # My GitHub Stats:
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=AmanSinghBhogal&theme=react-dark" alt="Activity Graph"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmanSinghBhogal&show_icons=true&theme=radical" alt="Github readme stats" width="55%"></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AmanSinghBhogal&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSinghBhogal&theme=radical" alt="Activity Graph"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSinghBhogal&theme=radical" alt="Github readme stats" width="55%"></p>
+<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanSinghBhogal&theme=react-dark" alt="Github readme stats"></p>
 
 <h3> Connect with me at ...</h3>
 

@@ -28,7 +28,7 @@
 
 # My GitHub Stats:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSinghBhogal&theme=radical" alt="Activity Graph"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSinghBhogal&theme=radical" alt="Github readme stats" width="55%"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmanSinghBhogal&count_private=true&show_icons=true&hide_border=true&theme=radical" alt="Github readme stats" width="55%"></p>
 <p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanSinghBhogal&theme=react-dark" alt="Github readme stats"></p>
 
 <h3> Connect with me at ...</h3>

@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on making Web Applications in MERN stack.
 - :man_student: I'am currently in my final year of College.
 - 💬 Ask me about books, best resources for learning Computer Science and doing research .
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-singh-bhogal-002914195/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-singh-bhogal/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Binge Racer!
 
@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express.Js-red?style=flat-square&logo=express)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.Js](https://img.shields.io/badge/React.Js-232F7E?style=flat-square&logo=react)
 ![Node.Js](https://img.shields.io/badge/Node.Js-232F7E?style=flat-square&logo=nodedotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

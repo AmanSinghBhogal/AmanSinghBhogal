@@ -1,9 +1,9 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 - 👨‍💻 I'm a Full Stack Developer.
-- 🔭 I’m currently learning about Google Cloud Platform. 
+- 🔭 I’m currently learning about Next.js. 
 - 👯 I’m looking to collaborate on making Web Applications in MERN stack.
-- :man_student: I'am currently in my 3rd year of College.
+- :man_student: I'am currently in my final year of College.
 - 💬 Ask me about books, best resources for learning Computer Science and doing research .
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-singh-bhogal-002914195/).
 - 😄 Pronouns: He/Him
